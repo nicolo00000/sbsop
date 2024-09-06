@@ -1,0 +1,33 @@
+**Titolo:** Procedura operativa standard per la pulizia di Machine_1
+
+**Scopo:** Questa procedura descrive il processo per la pulizia efficace di Machine_1 al fine di mantenere la sua funzionalità ottimale e prolungarne la durata.
+
+**Ambito:** Questa SOP si applica al personale autorizzato responsabile della pulizia di Machine_1.
+
+**Responsabilità:**
+- Il responsabile della manutenzione è responsabile di garantire che la pulizia di Machine_1 venga eseguita regolarmente e correttamente.
+- Gli operatori incaricati della pulizia devono seguire attentamente questa procedura per garantire una pulizia efficace e sicura.
+
+**Attrezzature/Materiali necessari:**
+- Panno pulito
+- Soluzione detergente non corrosiva
+- Guanti protettivi
+- Occhiali protettivi
+
+**Misure di sicurezza:**
+- Prima di iniziare la pulizia, assicurarsi che Machine_1 sia spenta e scollegata dalla fonte di alimentazione.
+- Indossare guanti protettivi e occhiali protettivi durante l'intero processo di pulizia per evitare lesioni.
+- Assicurarsi di utilizzare solo soluzioni detergenti non corrosive per evitare danni alla macchina.
+
+**Procedure passo-passo:**
+1. Staccare la spina di alimentazione di Machine_1 dalla presa elettrica.
+2. Indossare guanti protattivi e occhiali protettivi.
+3. Preparare una soluzione detergente non corrosiva diluendo il detergente secondo le istruzioni del produttore.
+4. Immergere il panno pulito nella soluzione detergente e strizzarlo per rimuovere l'eccesso di liquido.
+5. Pulire delicatamente le superfici esterne di Machine_1 con il panno umido per rimuovere lo sporco e la polvere.
+6. Se necessario, utilizzare un altro panno pulito per asciugare le superfici pulite.
+7. Verificare che non ci siano residui di detergente sulle superfici di Machine_1.
+8. Una volta completata la pulizia, riposizionare correttamente Machine_1 e ricollegare la spina di alimentazione.
+9. Verificare che la macchina funzioni correttamente prima di riprendere le attività.
+
+**Nota:** Se durante la pulizia si riscontrano problemi o anomalie, interrompere immediatamente il processo e contattare il responsabile della manutenzione per ulteriori istruzioni.

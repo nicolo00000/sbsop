@@ -1,0 +1,41 @@
+**Titolo:** Procedura operativa standard per la manutenzione della puleggia su Machine_1
+
+**Scopo:** Questa procedura fornisce istruzioni dettagliate per staccare, pulire e riattaccare la puleggia su Machine_1 al fine di garantire il corretto funzionamento della macchina.
+
+**Ambito:** Questa SOP si applica al personale addetto alla manutenzione e alla pulizia della puleggia su Machine_1.
+
+**Responsabilità:**
+- Il personale addetto alla manutenzione è responsabile di seguire questa procedura in modo accurato e sicuro.
+- Il responsabile della sicurezza sul lavoro è responsabile di assicurarsi che vengano seguite tutte le precauzioni di sicurezza.
+
+**Attrezzature/Materiali necessari:**
+- Guanti protettivi
+- Panni puliti
+- Lubrificante per macchinari
+- Attrezzo per staccare la puleggia
+
+**Precauzioni di sicurezza:**
+1. Assicurarsi che Machine_1 sia spenta prima di iniziare la procedura.
+2. Indossare sempre guanti protettivi per evitare lesioni alle mani.
+3. Prestare attenzione agli spigoli affilati della puleggia durante la pulizia e la manipolazione.
+4. Assicurarsi che la puleggia sia correttamente ricollegata prima di riaccendere la macchina.
+
+**Procedure:**
+1. Staccare la puleggia:
+   a. Assicurarsi che Machine_1 sia spenta.
+   b. Indossare i guanti protettivi.
+   c. Utilizzando l'attrezzo appropriato, staccare la puleggia dalla sua posizione.
+   d. Posizionare la puleggia in un'area pulita e sicura.
+
+2. Pulire la puleggia:
+   a. Utilizzando un panno pulito, rimuovere delicatamente lo sporco e i residui dalla superficie della puleggia.
+   b. Applicare il lubrificante per macchinari sulla puleggia per garantire un corretto funzionamento.
+   c. Verificare che la puleggia sia completamente pulita prima di procedere.
+
+3. Riattaccare la puleggia:
+   a. Posizionare la puleggia pulita nella sua posizione originale.
+   b. Assicurarsi che la puleggia sia correttamente allineata e collegata al meccanismo appropriato.
+   c. Fissare saldamente la puleggia utilizzando l'attrezzo appropriato.
+   d. Verificare che la puleggia sia saldamente fissata e pronta per l'uso.
+
+Una volta completata la procedura, assicurarsi di pulire e riporre correttamente tutti gli attrezzi utilizzati. Verificare che Machine_1 sia pronta per essere riattivata e che la puleggia sia funzionante in modo ottimale.

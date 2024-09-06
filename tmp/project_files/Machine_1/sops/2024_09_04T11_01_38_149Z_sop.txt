@@ -1,0 +1,32 @@
+Title: Procedura Operativa Standard per Utilizzare la Macchina_1
+
+Purpose: Questa procedura fornisce istruzioni dettagliate su come utilizzare correttamente la Macchina_1 per garantire un funzionamento efficiente e sicuro.
+
+Scope: Questa SOP si applica a tutti gli operatori autorizzati ad utilizzare la Macchina_1.
+
+Responsibilities:
+- Gli operatori sono responsabili di seguire questa procedura in modo accurato e preciso.
+- Il responsabile della manutenzione è responsabile di garantire che la Macchina_1 sia in condizioni ottimali per l'uso.
+
+Equipment/Materials Needed:
+- Macchina_1
+- Materiale da lavorare
+
+Safety Precautions:
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare la procedura.
+- Indossare l'abbigliamento protettivo appropriato, incluso occhiali di sicurezza e guanti.
+- Prestare attenzione alle parti mobili della macchina per evitare infortuni.
+- Non utilizzare la Macchina_1 in caso di malfunzionamenti o danni.
+
+Procedura:
+1. Accertarsi che la Macchina_1 sia spenta e che il materiale da lavorare sia posizionato correttamente.
+2. Accendere la Macchina_1 premendo il pulsante di avvio.
+3. Regolare le impostazioni della Macchina_1 in base al tipo di lavoro da eseguire.
+4. Premere il pulsante di avvio per avviare il processo di lavorazione.
+5. Monitorare attentamente il funzionamento della Macchina_1 durante il processo.
+6. Una volta completata la lavorazione, spegnere la Macchina_1 premendo il pulsante di arresto.
+7. Rimuovere il materiale lavorato dalla Macchina_1 con cura.
+8. Pulire la Macchina_1 e l'area circostante per garantire la sicurezza e la pulizia del luogo di lavoro.
+9. Spegnere completamente la Macchina_1 e assicurarsi che sia pronta per l'uso successivo.
+
+Questa SOP fornisce linee guida dettagliate su come utilizzare correttamente la Macchina_1. Seguire attentamente queste istruzioni per garantire un funzionamento sicuro ed efficiente della macchina.

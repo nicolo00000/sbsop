@@ -1,0 +1,28 @@
+**Titolo:** Procedura Operativa Standard per la Macchina_1
+
+**Scopo:** Questa procedura dettaglia le istruzioni per staccare la spina, pulire la macchina, riattaccare la pulizia e riattaccare la spina per la Macchina_1.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori incaricati dell'utilizzo della Macchina_1.
+
+**Responsabilità:**
+- Gli operatori devono seguire attentamente le istruzioni fornite in questa SOP.
+- Il responsabile della manutenzione è responsabile dell'ispezione periodica della Macchina_1 per garantire il corretto funzionamento.
+
+**Attrezzature/Materiali necessari:**
+- Panno pulito
+- Detergente non aggressivo
+- Guanti protettivi
+
+**Misure di Sicurezza:**
+- Prima di iniziare la pulizia, assicurarsi che la Macchina_1 sia spenta e scollegata.
+- Indossare sempre i guanti protettivi durante le operazioni di pulizia.
+- Prestare attenzione a non bagnare parti elettriche durante la pulizia.
+
+**Procedure Passo-Passo:**
+1. Staccare la spina della Macchina_1 dalla presa elettrica.
+2. Utilizzando un panno pulito leggermente inumidito con detergente non aggressivo, pulire attentamente tutte le superfici esterne della Macchina_1 per rimuovere lo sporco e la polvere accumulati.
+3. Assicurarsi di prestare particolare attenzione alle aree con accumuli di sporco o residui.
+4. Una volta completata la pulizia, lasciare asciugare completamente la Macchina_1.
+5. Riattaccare la spina della Macchina_1 nella presa elettrica.
+
+Questa procedura dovrebbe essere eseguita regolarmente per mantenere la Macchina_1 in condizioni ottimali di pulizia e funzionamento.

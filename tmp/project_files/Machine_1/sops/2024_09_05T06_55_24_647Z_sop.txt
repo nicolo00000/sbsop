@@ -1,0 +1,40 @@
+**Titolo:** Procedura per la Pulizia della Macchina_1
+
+**Scopo:** Questa procedura fornisce istruzioni dettagliate per staccare, pulire e ricollegare la pulizia della Macchina_1 al fine di garantire il corretto funzionamento e la pulizia dell'attrezzatura.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori responsabili della manutenzione della Macchina_1.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire attentamente la procedura per garantire la corretta pulizia della Macchina_1.
+- Il responsabile di produzione è responsabile di supervisionare l'esecuzione della procedura.
+
+**Attrezzature/Materiali necessari:**
+- Panno pulito
+- Soluzione detergente non abrasiva
+- Guanti protettivi
+
+**Misure di Sicurezza:**
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare la pulizia.
+- Indossare i guanti protettivi durante la pulizia.
+- Prestare attenzione per evitare lesioni durante il processo di pulizia.
+
+**Procedure:**
+
+1. Staccare: 
+   a. Assicurarsi che la Macchina_1 sia spenta.
+   b. Disconnettere il cavo di alimentazione dalla presa elettrica.
+   
+2. Pulizia:
+   a. Utilizzare il panno pulito e la soluzione detergente non abrasiva per pulire accuratamente tutte le parti esterne della Macchina_1.
+   b. Prestare particolare attenzione alle aree più sporche o difficili da raggiungere.
+   
+3. Ricollegare:
+   a. Assicurarsi che tutte le parti siano completamente asciutte prima di ricollegare la Macchina_1.
+   b. Ricollegare il cavo di alimentazione alla presa elettrica.
+   c. Accendere la Macchina_1 per verificare che tutto funzioni correttamente dopo la pulizia.
+
+4. Fine della Procedura:
+   a. Completare la registrazione della pulizia nella documentazione prevista.
+   b. Comunicare eventuali anomalie o problemi riscontrati durante la pulizia al responsabile di produzione.
+
+**Nota:** Questa procedura deve essere eseguita regolarmente per garantire la pulizia e il corretto funzionamento della Macchina_1.

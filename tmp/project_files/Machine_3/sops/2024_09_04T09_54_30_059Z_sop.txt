@@ -1,0 +1,28 @@
+**Titolo:** Procedura Operativa Standard per la Macchina_3
+
+**Scopo:** Questo documento fornisce istruzioni dettagliate su come spegnere, pulire e riaccendere la presa della Macchina_3 per garantire un corretto funzionamento e mantenere un ambiente di lavoro sicuro.
+
+**Ambito:** Questa procedura si applica agli operatori incaricati di gestire la Macchina_3.
+
+**Responsabilità:** Gli operatori responsabili dell'esecuzione di questa procedura devono seguire attentamente ogni passaggio per garantire la sicurezza e l'efficienza della Macchina_3.
+
+**Attrezzature/Materiali necessari:**
+1. Sapone per lavarsi le mani
+2. Panno pulito
+3. Disinfettante
+4. Guanti protettivi
+
+**Misure di Sicurezza:**
+1. Prima di iniziare la procedura, assicurarsi che la Macchina_3 sia spenta e scollegata.
+2. Utilizzare guanti protettivi durante la pulizia della presa per evitare lesioni.
+3. Prestare attenzione a non bagnare la presa durante la pulizia per evitare il rischio di scosse elettriche.
+
+**Procedure Passo per Passo:**
+1. Lavarsi accuratamente le mani con acqua e sapone per garantire la pulizia e l'igiene.
+2. Assicurarsi che la Macchina_3 sia spenta e staccata dalla presa.
+3. Utilizzare un panno pulito e disinfettante per pulire la presa della Macchina_3, rimuovendo eventuali residui o sporco.
+4. Una volta pulita, riattaccare saldamente la presa alla Macchina_3 per garantire una connessione sicura.
+5. Verificare che la presa sia correttamente ricollegata e che non ci siano eventuali problemi di connessione.
+6. Segnalare eventuali anomalie o malfunzionamenti al responsabile per ulteriori verifiche.
+
+Seguendo attentamente questa procedura, gli operatori potranno garantire un corretto funzionamento della Macchina_3 e contribuire a mantenere un ambiente di lavoro sicuro e igienico.

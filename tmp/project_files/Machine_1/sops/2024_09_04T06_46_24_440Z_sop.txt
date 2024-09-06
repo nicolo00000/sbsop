@@ -1,0 +1,34 @@
+**Standard Operating Procedure (SOP) for Machine_1**
+
+**Titolo:** Procedura per la pulizia di Machine_1
+
+**Scopo:** Questa procedura ha lo scopo di garantire che Machine_1 venga pulita in modo corretto e sicuro per mantenere le prestazioni ottimali e la durata nel tempo.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori incaricati della pulizia di Machine_1.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire questa procedura con precisione.
+- Il responsabile della manutenzione è responsabile di supervisionare l'applicazione corretta della procedura.
+
+**Attrezzature/Materiali necessari:**
+- Panno morbido
+- Soluzione detergente delicata
+- Guanti protettivi
+- Presa
+
+**Precauzioni di sicurezza:**
+- Assicurarsi che Machine_1 sia spenta e scollegata dalla presa prima di iniziare la pulizia.
+- Indossare i guanti protettivi durante la pulizia per evitare irritazioni alla pelle.
+- Utilizzare solo una soluzione detergente delicata per evitare danni a Machine_1.
+
+**Procedure:**
+1. Staccare la presa di alimentazione di Machine_1 per garantire la sicurezza.
+2. Utilizzare un panno morbido per pulire delicatamente la superficie esterna di Machine_1 per rimuovere lo sporco e la polvere.
+3. Preparare una soluzione detergente delicata seguendo le istruzioni del produttore.
+4. Utilizzare il panno morbido inumidito con la soluzione detergente per pulire accuratamente tutte le parti accessibili di Machine_1.
+5. Assicurarsi di asciugare completamente tutte le parti pulite con un panno asciutto per evitare danni da umidità.
+6. Controllare che non ci siano residui di detergente sulla superficie di Machine_1.
+7. Collegare di nuovo la presa di alimentazione solo quando tutte le parti sono asciutte e la pulizia è completata.
+8. Verificare che Machine_1 funzioni correttamente dopo la pulizia.
+
+Questa procedura dovrebbe essere eseguita regolarmente per garantire che Machine_1 rimanga pulita e in condizioni ottimali.

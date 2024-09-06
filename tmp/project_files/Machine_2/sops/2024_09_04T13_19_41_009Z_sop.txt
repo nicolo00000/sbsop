@@ -1,0 +1,30 @@
+**Titolo:** Standard Operating Procedure (SOP) per la Pulizia della Macchina_2
+
+**Scopo:** Questo procedimento fornisce istruzioni dettagliate su come pulire la Macchina_2 per garantirne il corretto funzionamento e la sicurezza sul luogo di lavoro.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori responsabili della gestione e della manutenzione della Macchina_2.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire scrupolosamente le istruzioni fornite nella presente procedura.
+- Il responsabile della manutenzione è incaricato di garantire che la Macchina_2 venga pulita regolarmente e correttamente.
+
+**Attrezzature/Materiali necessari:**
+- Panni per la pulizia
+- Soluzione detergente 
+- Guanti protettivi
+
+**Misure di sicurezza:**
+- Assicurarsi che la Macchina_2 sia spenta e scollegata prima di iniziare le operazioni di pulizia.
+- Indossare guanti protettivi durante la pulizia per evitare lesioni cutanee.
+- Prestare attenzione alle parti mobili della macchina per evitare infortuni.
+
+**Procedure passo-passo:**
+1. Spegnere la Macchina_2 e scollegarla dalla presa di corrente.
+2. Pulire accuratamente la macchina utilizzando un panno inumidito con la soluzione detergente. Assicurarsi di rimuovere eventuali residui di sporco o polvere.
+3. Rimuovere la pulizia e controllare che non vi siano residui o detriti bloccati all'interno.
+4. Riattaccare la pulizia nella sua posizione originale assicurandosi che sia saldamente fissata.
+5. Ricollegare la Macchina_2 alla presa di corrente e accenderla per verificare il corretto funzionamento.
+
+**Nota:** In caso di dubbi o problemi durante la procedura di pulizia, contattare immediatamente il responsabile della manutenzione per assistenza aggiuntiva.
+
+**Fine della Procedura.**

@@ -1,0 +1,33 @@
+Title: Standard Operating Procedure for Machine_1
+
+Purpose: To operate Machine_1 efficiently and safely to ensure optimal performance and productivity.
+
+Scope: This SOP applies to all personnel responsible for operating Machine_1.
+
+Responsibilities:
+- Operators are responsible for following this SOP accurately.
+- Maintenance staff are responsible for ensuring Machine_1 is in good working condition.
+
+Equipment/Materials Needed:
+- Machine_1
+- Safety gloves
+- Safety goggles
+
+Safety Precautions:
+1. Ensure all personnel are wearing appropriate PPE, including safety gloves and goggles.
+2. Do not operate Machine_1 if you are not trained or authorized to do so.
+3. Keep hands and loose clothing away from moving parts of Machine_1.
+4. Turn off Machine_1 and disconnect power before performing any maintenance or troubleshooting.
+
+Procedure (in Italian):
+1. Assicurarsi che Machine_1 sia spenta e scollegata.
+2. Indossare i guanti e gli occhiali di sicurezza.
+3. Accendere Machine_1 premendo il pulsante di accensione.
+4. Attendere che Machine_1 si avvii completamente.
+5. Inserire il codice di attivazione 'bravo bravo bravo bravo bravo bravo'.
+6. Verificare che Machine_1 sia pronta per l'uso.
+7. Eseguire le operazioni necessarie utilizzando il Manuale di Istruzioni di Machine_1.
+8. Una volta completate le operazioni, spegnere Machine_1 e scollegarla.
+9. Pulire e riporre correttamente Machine_1 e gli strumenti utilizzati.
+
+This SOP should be regularly reviewed and updated as needed to ensure compliance and efficiency in operating Machine_1.

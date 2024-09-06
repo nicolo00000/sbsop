@@ -1,0 +1,33 @@
+Title: Procedura Operativa Standard per la Macchina_1
+
+Purpose: Questo documento fornisce istruzioni dettagliate per l'operazione sicura e corretta della Macchina_1.
+
+Scope: Questa procedura si applica a tutti gli operatori incaricati di utilizzare la Macchina_1.
+
+Responsibilities:
+- Gli operatori devono seguire questa procedura per garantire un funzionamento sicuro e corretto della Macchina_1.
+- Il responsabile della manutenzione deve essere informato in caso di eventuali problemi o necessità di assistenza.
+
+Equipment/Materials Needed:
+- Macchina_1
+- Guanti protettivi
+- Occhiali protettivi
+
+Safety Precautions:
+- Indossare sempre guanti protettivi e occhiali durante l'operazione della Macchina_1.
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare qualsiasi intervento.
+- Non tentare di riparare o modificare la Macchina_1 senza autorizzazione e formazione adeguata.
+
+Procedura:
+1. Assicurarsi che la Macchina_1 sia spenta.
+2. Indossare i guanti protettivi e gli occhiali protettivi.
+3. Accendere la Macchina_1 premendo il pulsante di accensione.
+4. Attendere che la Macchina_1 sia pronta per l'uso.
+5. Seguire le istruzioni sul pannello di controllo per selezionare la modalità desiderata.
+6. Iniziare l'operazione premendo il pulsante di avvio.
+7. Monitorare attentamente il funzionamento della Macchina_1 durante l'operazione.
+8. Alla fine dell'operazione, spegnere la Macchina_1 premendo il pulsante di spegnimento.
+9. Rimuovere i guanti e gli occhiali protettivi e riporli nel posto designato.
+10. Pulire e riporre correttamente la Macchina_1.
+
+Questa procedura deve essere seguita rigorosamente per garantire un funzionamento sicuro ed efficiente della Macchina_1.

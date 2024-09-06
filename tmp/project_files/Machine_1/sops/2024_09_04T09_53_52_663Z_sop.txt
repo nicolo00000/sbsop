@@ -1,0 +1,30 @@
+**Standard Operating Procedure (SOP) for Machine_1**
+
+**Title:** Procedura per la Pulizia della Presa su Machine_1
+
+**Purpose:** Questa procedura ha lo scopo di garantire che la presa di Machine_1 sia pulita e funzionante per garantire un corretto funzionamento della macchina.
+
+**Scope:** Questa procedura si applica a tutti gli operatori responsabili della manutenzione della presa su Machine_1.
+
+**Responsibilities:**
+- Gli operatori sono responsabili di eseguire la pulizia della presa su Machine_1 secondo questa procedura.
+- Il supervisore è responsabile di garantire che la procedura venga seguita correttamente e che la presa sia pulita.
+
+**Equipment/Materials Needed:**
+- Panno pulito
+- Soluzione detergente non aggressiva
+- Guanti protettivi
+
+**Safety Precautions:**
+- Assicurarsi che la macchina sia spenta prima di iniziare la pulizia.
+- Indossare sempre guanti protettivi per evitare lesioni alle mani.
+- Utilizzare solo soluzioni detergenti non aggressive per evitare danni alla presa.
+
+**Procedura:**
+1. Stacca la presa di Machine_1 dalla fonte di alimentazione.
+2. Pulisci la presa utilizzando un panno pulito inumidito con la soluzione detergente non aggressiva. Assicurati di rimuovere qualsiasi sporco o residuo accumulato sulla presa.
+3. Riattacca la presa alla sua posizione originale.
+4. Ripeti il passaggio 3 per assicurarti che la presa sia saldamente collegata.
+5. Verifica che la presa sia pulita e libera da residui prima di riaccendere la macchina.
+
+Questa procedura dovrebbe essere eseguita regolarmente per garantire un corretto funzionamento della presa su Machine_1.

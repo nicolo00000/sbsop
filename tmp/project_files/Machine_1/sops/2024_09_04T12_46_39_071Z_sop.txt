@@ -1,0 +1,46 @@
+**Standard Operating Procedure (SOP) for Machine_1**
+
+**Title:** Procedura per la Pulizia di Machine_1
+
+**Purpose:** 
+Questa procedura ha lo scopo di garantire che Machine_1 venga pulita correttamente per mantenere le prestazioni ottimali e prevenire malfunzionamenti.
+
+**Scope:** 
+Questa procedura si applica a tutti gli operatori responsabili della pulizia di Machine_1.
+
+**Responsibilities:**
+L'operatore responsabile della pulizia di Machine_1 è tenuto a seguire questa procedura in modo accurato e completo.
+
+**Equipment/Materials Needed:**
+- Panno per la pulizia
+- Soluzione detergente non aggressiva
+- Guanti protettivi
+
+**Safety Precautions:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la pulizia.
+- Indossare i guanti protettivi durante la procedura per evitare irritazioni cutanee.
+- Prestare attenzione per evitare lesioni durante la pulizia.
+
+**Procedure:**
+1. Spegnere Machine_1 e assicurarsi che sia totalmente spenta prima di iniziare la pulizia.
+   
+2. Preparare una soluzione detergente non aggressiva diluendola in acqua secondo le istruzioni del produttore.
+
+3. Indossare i guanti protettivi per proteggere le mani durante la pulizia.
+
+4. Immergere il panno per la pulizia nella soluzione detergente preparata e strizzarlo leggermente per eliminare l'eccesso di liquido.
+
+5. Pulire accuratamente tutte le superfici esterne di Machine_1 con il panno inumidito, prestando particolare attenzione alle zone più sporche o difficili da raggiungere.
+
+6. Dopo aver pulito completamente Machine_1, risciacquare il panno con acqua pulita e strizzarlo per eliminare eventuali residui di detergente.
+
+7. Ripassare tutte le superfici precedentemente pulite con il panno inumidito con acqua pulita per rimuovere eventuali residui di detergente.
+
+8. Una volta completata la pulizia, ricollocare il panno nel luogo designato per il successivo utilizzo.
+
+9. Riaccendere Machine_1 solo dopo aver verificato che tutte le superfici siano asciutte e che non ci siano residui di detergente rimasti.
+
+10. Verificare che Machine_1 funzioni correttamente dopo la pulizia e segnalare eventuali anomalie al responsabile.
+
+**Nota:** 
+Questa procedura di pulizia deve essere eseguita regolarmente per garantire che Machine_1 rimanga pulita e in condizioni ottimali.

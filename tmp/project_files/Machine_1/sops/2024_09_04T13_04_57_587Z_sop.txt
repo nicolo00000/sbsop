@@ -1,0 +1,37 @@
+Title: Procedura operativa standard per la manutenzione della puleggia di Machine_1
+
+Purpose: Questa procedura fornisce istruzioni dettagliate per staccare, pulire e riattaccare la puleggia di Machine_1 al fine di garantire il corretto funzionamento della macchina.
+
+Scope: Questa procedura si applica a tutti gli operatori responsabili della manutenzione della puleggia di Machine_1.
+
+Responsibilities: Gli operatori responsabili devono seguire attentamente la procedura per garantire la corretta esecuzione della manutenzione della puleggia.
+
+Equipment/Materials needed:
+1. Chiave per staccare la puleggia
+2. Panno pulito
+3. Soluzione detergente per pulire la puleggia
+4. Guanti protettivi
+
+Safety precautions:
+1. Assicurarsi che Machine_1 sia spenta prima di iniziare la procedura.
+2. Indossare sempre i guanti protettivi durante la manipolazione della puleggia.
+3. Prestare attenzione per evitare lesioni durante l'operazione.
+
+Procedure:
+1. Stacco la puleggia:
+   a. Assicurarsi che Machine_1 sia spenta.
+   b. Utilizzando la chiave, staccare con cura la puleggia dalla sua posizione.
+   c. Controllare visivamente la puleggia per eventuali danni o accumuli di sporco.
+
+2. Pulisco la puleggia:
+   a. Prendere il panno pulito e inumidirlo con la soluzione detergente.
+   b. Pulire attentamente la puleggia rimuovendo lo sporco, la polvere o altri residui presenti.
+   c. Verificare che la puleggia sia pulita e priva di qualsiasi contaminante.
+
+3. Riattacco la puleggia:
+   a. Assicurarsi che la puleggia sia completamente asciutta prima di riattaccarla.
+   b. Posizionare con cura la puleggia nella sua corretta posizione.
+   c. Assicurarsi che la puleggia sia saldamente fissata utilizzando la chiave.
+   d. Verificare che la puleggia sia stata riattaccata correttamente.
+
+Questa procedura deve essere eseguita regolarmente per garantire il corretto funzionamento di Machine_1.

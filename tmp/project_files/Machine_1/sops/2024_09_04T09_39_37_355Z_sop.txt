@@ -1,0 +1,37 @@
+Title: Procedura Operativa Standard per la Pulizia della Puleggia su Machine_1
+
+Purpose:
+Questa procedura dettaglia i passaggi necessari per la pulizia della puleggia su Machine_1 al fine di garantire il corretto funzionamento e la sicurezza dell'operatore.
+
+Scope:
+Questa SOP si applica a tutti gli operatori responsabili della manutenzione di Machine_1.
+
+Responsabilità:
+Gli operatori sono responsabili di seguire questa procedura per garantire la pulizia corretta della puleggia su Machine_1.
+
+Attrezzature/Materiali Necessari:
+1. Guanti protettivi
+2. Panni puliti
+3. Soluzione detergente non corrosiva
+4. Acqua pulita
+5. Spazzola per la pulizia
+
+Misure di Sicurezza:
+1. Assicurarsi che Machine_1 sia spenta e scollegata dall'alimentazione prima di iniziare la pulizia.
+2. Indossare sempre i guanti protettivi durante la pulizia per evitare lesioni.
+3. Prestare attenzione per evitare di danneggiare la puleggia durante il processo di pulizia.
+4. Non utilizzare solventi aggressivi che potrebbero danneggiare la puleggia o altri componenti di Machine_1.
+
+Procedura:
+
+1. Staccare la presa di alimentazione di Machine_1 per garantire la sicurezza dell'operatore.
+2. Togliere la puleggia utilizzando gli strumenti appropriati con attenzione per non danneggiarla.
+3. Pulire accuratamente la puleggia con un panno pulito inumidito con la soluzione detergente non corrosiva.
+4. Utilizzare la spazzola per rimuovere eventuali residui ostinati sulla puleggia.
+5. Risciacquare la puleggia con acqua pulita per rimuovere qualsiasi residuo di detergente.
+6. Asciugare completamente la puleggia con un panno pulito.
+7. Riattaccare saldamente la puleggia al suo alloggiamento assicurandosi che sia posizionata correttamente.
+8. Ricollegare la presa di alimentazione di Machine_1.
+9. Lavarsi accuratamente le mani dopo aver completato la procedura di pulizia.
+
+Questa procedura deve essere eseguita regolarmente per garantire il corretto funzionamento di Machine_1.

@@ -1,0 +1,32 @@
+Title: Standard Operating Procedure for Machine_1 (Macchina_1)
+
+Purpose: The purpose of this SOP is to outline the proper operating procedures for Machine_1 to ensure safety, efficiency, and accuracy in its operation.
+
+Scope: This SOP applies to all operators responsible for operating Machine_1 in the production facility.
+
+Responsibilities:
+- Operator: Responsible for following the SOP, operating Machine_1 accurately, and maintaining a safe working environment.
+- Supervisor: Responsible for overseeing the operation of Machine_1, ensuring compliance with the SOP, and providing necessary training to operators.
+
+Equipment/Materials Needed:
+- Machine_1 (Macchina_1)
+- Safety gear (e.g., gloves, goggles)
+- Raw materials for processing
+
+Safety Precautions:
+1. Ensure all operators are trained on the proper operation of Machine_1 before use.
+2. Wear appropriate safety gear to prevent injuries during operation.
+3. Keep hands and loose clothing away from moving parts of Machine_1.
+4. Follow all safety guidelines provided by the manufacturer.
+
+Step-by-Step Procedures (in Italian):
+1. Accendere la Macchina_1 e assicurarsi che sia in modalità di funzionamento corretta.
+2. Caricare i materiali grezzi nella Macchina_1 secondo le istruzioni del produttore.
+3. Avviare il processo di lavorazione premendo il pulsante di avvio.
+4. Monitorare attentamente il funzionamento della Macchina_1 durante il processo.
+5. Una volta completata la lavorazione, arrestare la Macchina_1 premendo il pulsante di arresto.
+6. Rimuovere con cura i materiali lavorati dalla Macchina_1.
+7. Spegnere la Macchina_1 e assicurarsi che sia spenta correttamente.
+8. Pulire e mantenere la Macchina_1 secondo le istruzioni del produttore.
+
+By following this SOP, operators can ensure the safe and efficient operation of Machine_1 in the production facility.

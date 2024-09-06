@@ -1,0 +1,29 @@
+**Titolo:** Procedura standard per la pulizia di Machine_1
+
+**Scopo:** Questa procedura definisce le istruzioni per staccare, pulire e riattaccare la pulizia di Machine_1 al fine di garantire un corretto funzionamento e prolungare la durata della macchina.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori responsabili della pulizia di Machine_1.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire attentamente le istruzioni fornite in questa SOP.
+- Il supervisore è responsabile di garantire che la procedura venga eseguita correttamente e che la macchina sia pronta per l'uso.
+
+**Attrezzature/Materiali necessari:**
+- Panno pulito
+- Soluzione detergente non abrasiva
+- Guanti protettivi
+
+**Misure di sicurezza:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la pulizia.
+- Indossare sempre i guanti protettivi durante la pulizia per evitare lesioni cutanee.
+- Utilizzare solo soluzioni detergenti non abrasive per evitare danni alla superficie della macchina.
+
+**Procedure:**
+1. Staccare la pulizia: Assicurarsi che Machine_1 sia spenta. Localizzare il dispositivo di pulizia e staccarlo con cura.
+2. Pulire la pulizia: Utilizzando un panno pulito inumidito con la soluzione detergente non abrasiva, pulire accuratamente la pulizia rimossa. Rimuovere qualsiasi sporco o residuo in modo efficace.
+3. Pulire la pulizia: Asciugare la pulizia con un panno pulito e asciutto per evitare la formazione di macchie d'acqua.
+4. Staccare la pulizia: Dopo aver completato la pulizia, riattaccare con cura la pulizia alla sua posizione originale sulla macchina.
+5. Verifica finale: Assicurarsi che la pulizia sia correttamente riattaccata e che non ci siano parti mancanti o danneggiate.
+6. Completamento: Una volta completata la procedura, informare il supervisore che la pulizia di Machine_1 è stata eseguita con successo.
+
+**Nota:** In caso di problemi o domande durante la procedura, contattare immediatamente il supervisore per assistenza aggiuntiva.

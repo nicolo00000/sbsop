@@ -1,0 +1,31 @@
+Title: Procedura Operativa Standard per la Macchina_1
+
+Purpose: Questo documento fornisce una guida dettagliata su come utilizzare correttamente la Macchina_1 per condurre prove di funzionamento.
+
+Scope: Questa procedura si applica al personale autorizzato incaricato di utilizzare la Macchina_1 per condurre prove.
+
+Responsibilities:
+- Il personale autorizzato è responsabile di seguire questa procedura in modo accurato e sicuro.
+- Il responsabile della manutenzione è responsabile di assicurare che la Macchina_1 sia in condizioni ottimali per l'utilizzo.
+
+Equipment/Materials Needed:
+- Macchina_1
+- Campioni per le prove
+
+Safety Precautions:
+- Assicurarsi di indossare l'abbigliamento e le attrezzature di protezione individuale appropriati.
+- Prestare attenzione durante l'utilizzo della Macchina_1 per evitare lesioni.
+- Non utilizzare la Macchina_1 se non si è autorizzati o addestrati.
+
+Procedura:
+1. Assicurarsi che la Macchina_1 sia spenta prima di iniziare la procedura.
+2. Controllare che la Macchina_1 sia correttamente collegata all'alimentazione elettrica.
+3. Caricare i campioni da testare nella Macchina_1 seguendo le istruzioni fornite.
+4. Accendere la Macchina_1 e impostare i parametri di prova desiderati.
+5. Avviare la prova premendo il pulsante di avvio.
+6. Monitorare attentamente il processo di prova e registrare i risultati ottenuti.
+7. Una volta completata la prova, spegnere la Macchina_1 e rimuovere i campioni testati.
+8. Pulire la Macchina_1 e l'area circostante per garantire la sicurezza e la pulizia del luogo di lavoro.
+9. Archiviare i risultati della prova in conformità con le procedure aziendali.
+
+Questa procedura fornisce linee guida dettagliate su come utilizzare correttamente la Macchina_1 per condurre prove di funzionamento. Assicurarsi di seguire attentamente ogni passaggio e di prestare attenzione alla sicurezza durante l'intero processo.
