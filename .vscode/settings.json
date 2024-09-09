@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a056d7b8-782e-4387-bee4-2711061eade9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/seikasop2024",
+    "appService.deploySubpath": "."
+}
