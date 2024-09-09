@@ -9,16 +9,19 @@ import { db } from '@/lib/db';
 import { userFiles } from '@/lib/db/schema';
 import { auth } from "@clerk/nextjs/server";
 
+// Promisify exec for cleaner async/await usage
 const execAsync = util.promisify(exec);
 
+// Initialize OpenAI client
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 // Define constants
 const PROJECT_FOLDER = 'project_files';
 const MACHINES = ['Machine_1', 'Machine_2', 'Machine_3'];
 const ALLOWED_EXTENSIONS = ['wav', 'webm'];
+const FFMPEG_PATH = '/home/ffmpeg-7.0.2-i686-static/ffmpeg'; // Path to ffmpeg binary
 
-// Helper functions
+// Helper function to create necessary directories
 async function createFolders() {
   for (const machine of MACHINES) {
     const machinePath = path.join(PROJECT_FOLDER, machine);
@@ -28,14 +31,17 @@ async function createFolders() {
   }
 }
 
+// Validate file extension
 function allowedFile(filename: string): boolean {
   const ext = filename.split('.').pop()?.toLowerCase();
   return ext ? ALLOWED_EXTENSIONS.includes(ext) : false;
 }
 
+// Convert WebM to WAV using ffmpeg
 async function convertWebmToWav(inputPath: string): Promise<string> {
   const outputPath = inputPath.replace('.webm', '.wav');
-  const ffmpegCommand = `ffmpeg -i ${inputPath} -acodec pcm_s16le -ar 16000 ${outputPath}`;
+  const ffmpegCommand = `${FFMPEG_PATH} -i ${inputPath} -acodec pcm_s16le -ar 16000 ${outputPath}`;
+  
   console.log(`Running ffmpeg command: ${ffmpegCommand}`);
   
   try {
@@ -49,6 +55,7 @@ async function convertWebmToWav(inputPath: string): Promise<string> {
   }
 }
 
+// Transcribe audio using OpenAI Whisper model
 async function transcribeAudio(filepath: string, language: string): Promise<string> {
   console.log(`Transcribing audio file: ${filepath}`);
   try {
@@ -61,10 +68,11 @@ async function transcribeAudio(filepath: string, language: string): Promise<stri
     return transcription.text;
   } catch (error) {
     console.error('Error in audio transcription:', error);
-    throw error;
+    throw new Error('Failed to transcribe audio');
   }
 }
 
+// Generate SOP based on transcription
 async function generateSOP(transcript: string, machineName: string, language: string): Promise<string> {
   console.log(`Generating SOP for ${machineName}`);
   try {
@@ -87,21 +95,24 @@ async function generateSOP(transcript: string, machineName: string, language: st
     return completion.choices[0].message.content || 'No SOP generated';
   } catch (error) {
     console.error('Error in SOP generation:', error);
-    throw error;
+    throw new Error('Failed to generate SOP');
   }
 }
 
+// Handle POST request
 export async function POST(req: NextRequest) {
   await createFolders();
 
   try {
     console.log('POST request received');
     
+    // Authenticate user
     const { userId } = auth();
     if (!userId) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
+    // Process form data
     const formData = await req.formData();
     const audio = formData.get('audio') as File;
     const machineName = formData.get('machine') as string;
@@ -117,28 +128,34 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'File type not allowed' }, { status: 400 });
     }
 
+    // Generate timestamped filename
     const timestamp = new Date().toISOString().replace(/[:.-]/g, '_');
     const filename = `${timestamp}_${audio.name}`;
     const machinePath = path.join(PROJECT_FOLDER, machineName);
     const audioPath = path.join(machinePath, 'audio', filename);
 
+    // Save the uploaded audio file
     await writeFile(audioPath, Buffer.from(await audio.arrayBuffer()));
     console.log(`Audio file saved to: ${audioPath}`);
 
+    // Convert WebM to WAV if necessary
     let wavPath = audioPath;
     if (audioPath.toLowerCase().endsWith('.webm')) {
       wavPath = await convertWebmToWav(audioPath);
     }
 
+    // Transcribe audio and generate SOP
     const transcript = await transcribeAudio(wavPath, language);
     console.log('Transcription completed');
-
+    
     const sop = await generateSOP(transcript, machineName, language);
     console.log('SOP generated');
 
+    // Define paths for saving transcript and SOP
     const transcriptPath = path.join(machinePath, 'transcripts', `${timestamp}_transcript.txt`);
     const sopPath = path.join(machinePath, 'sops', `${timestamp}_sop.txt`);
 
+    // Save transcript and SOP
     await writeFile(transcriptPath, transcript);
     await writeFile(sopPath, sop);
 
@@ -167,6 +184,7 @@ export async function POST(req: NextRequest) {
       },
     ]);
 
+    // Return successful response
     return NextResponse.json({
       machine: machineName,
       audioFile: audioPath,

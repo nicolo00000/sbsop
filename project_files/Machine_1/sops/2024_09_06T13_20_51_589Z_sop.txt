@@ -1,0 +1,43 @@
+**Titolo:** Procedura Operativa Standard per la Pulizia di Machine_1
+
+**Scopo:** Questa procedura dettaglia le operazioni necessarie per staccare, pulire e riattaccare la pulizia della Machine_1 al fine di garantirne il corretto funzionamento e mantenere gli standard igienici.
+
+**Ambito:** Questa SOP si applica ai dipendenti responsabili della manutenzione e pulizia della Machine_1.
+
+**Responsabilità:**
+- Il responsabile della manutenzione è responsabile di eseguire la procedura di pulizia secondo quanto indicato.
+- Il responsabile della sicurezza sul luogo di lavoro deve assicurarsi che vengano seguite tutte le misure di sicurezza.
+
+**Attrezzature/Materiali Necessari:**
+- Panno pulito
+- Detergente non abrasivo
+- Guanti protettivi
+
+**Precauzioni di Sicurezza:**
+- Assicurarsi che la Machine_1 sia spenta prima di iniziare la pulizia.
+- Indossare sempre guanti protettivi durante la pulizia per evitare lesioni cutanee.
+
+**Procedure:**
+1. Stacca la pulizia:
+   a. Assicurati che la Machine_1 sia spenta.
+   b. Rimuovi con cura la pulizia dalla Machine_1.
+
+2. Pulisci la pulizia:
+   a. Indossa i guanti protettivi.
+   b. Immergi il panno pulito nel detergente non abrasivo.
+   c. Pulisci accuratamente la pulizia rimossa, assicurandoti di rimuovere qualsiasi residuo o sporco.
+   d. Sciacqua la pulizia con acqua pulita.
+   e. Asciuga bene la pulizia con un panno pulito e asciutto.
+
+3. Ritacca la pulizia:
+   a. Assicurati che la pulizia sia completamente asciutta.
+   b. Riattacca con cura la pulizia alla Machine_1 nel rispetto delle istruzioni di montaggio.
+
+4. Verifica:
+   a. Accendi la Machine_1 e verifica che la pulizia sia correttamente posizionata e che il funzionamento non sia compromesso.
+
+5. Pulizia degli strumenti:
+   a. Pulisci accuratamente il panno utilizzato e conservalo in un luogo pulito e asciutto.
+   b. Smaltisci correttamente i rifiuti generati durante la pulizia.
+
+Questa procedura di pulizia deve essere eseguita regolarmente per garantire un funzionamento ottimale della Machine_1 e mantenere un ambiente di lavoro pulito e sicuro.

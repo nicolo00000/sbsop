@@ -1,0 +1,45 @@
+# Standard Operating Procedure for Machine_1
+## Titolo: Procedure per la Pulizia della Puleggia su Machine_1
+
+### Purpose:
+Questo documento fornisce istruzioni dettagliate su come staccare, pulire e ricollegare la puleggia su Machine_1 per garantire il corretto funzionamento dell'attrezzatura.
+
+### Scope:
+Questa procedura si applica a tutti gli operatori incaricati della manutenzione di Machine_1.
+
+### Responsabilità:
+- Gli operatori incaricati devono seguire attentamente le istruzioni fornite in questo SOP.
+- Il supervisore è responsabile della supervisione delle attività di manutenzione sulla macchina.
+
+### Equipaggiamento/Materiali Necessari:
+- Guanti protettivi
+- Panno pulito
+- Soluzione detergente per la pulizia della puleggia
+
+### Precauzioni di Sicurezza:
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la procedura.
+- Utilizzare guanti protettivi per evitare lesioni durante la manipolazione della puleggia.
+- Prestare attenzione per evitare il contatto con parti mobili della macchina.
+
+### Procedure Passo-Passo:
+1. Stacca la puleggia:
+   - Assicurati che Machine_1 sia spenta.
+   - Indossa i guanti protettivi.
+   - Localizza la puleggia sulla macchina.
+   - Segui le istruzioni del manuale per staccare la puleggia in modo sicuro.
+   
+2. Pulisci la puleggia:
+   - Utilizza un panno pulito per rimuovere polvere, sporco o residui dalla puleggia.
+   - Applica la soluzione detergente sulla puleggia se necessario.
+   - Assicurati che la puleggia sia asciutta prima di procedere al passo successivo.
+
+3. Attacca la puleggia:
+   - Posiziona la puleggia pulita nel suo alloggiamento.
+   - Segui le istruzioni del manuale per ricollegare correttamente la puleggia.
+   - Verifica che la puleggia sia fissata saldamente e funzioni correttamente.
+
+4. Verifica:
+   - Accendi Machine_1 e controlla che la puleggia funzioni correttamente.
+   - Verifica che non ci siano rumori o vibrazioni anomali durante il funzionamento.
+
+Questo conclude la procedura per la pulizia della puleggia su Machine_1. Seguire sempre le precauzioni di sicurezza e le istruzioni fornite per garantire un corretto funzionamento dell'attrezzatura.

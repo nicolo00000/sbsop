@@ -1,5 +1,4 @@
 'use client';
-
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 
@@ -15,9 +14,7 @@ const SubscribeButton: React.FC = () => {
       const response = await fetch('/api/stripe', {
         method: 'GET',
       });
-
       console.log("Response status:", response.status);
-      
       const data = await response.json();
       console.log("Response data:", data);
 
@@ -43,7 +40,7 @@ const SubscribeButton: React.FC = () => {
     <button
       onClick={handleSubscribe}
       disabled={isLoading}
-      className="bg-[#536f4d] text-white font-bold py-2 px-4 rounded text-sm hover:bg-[#45503f] transition-colors"
+      className="bg-blue-500 text-white font-bold py-2 px-4 rounded text-sm hover:bg-blue-600 transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-opacity-50 disabled:bg-blue-300"
     >
       {isLoading ? 'Loading...' : 'Subscribe Now'}
     </button>
